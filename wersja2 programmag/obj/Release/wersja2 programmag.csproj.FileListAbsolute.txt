@@ -1,0 +1,19 @@
+C:\Users\Bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\bin\Release\wersja2 programmag.exe.config
+C:\Users\Bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\bin\Release\wersja2 programmag.exe
+C:\Users\Bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\bin\Release\wersja2 programmag.pdb
+C:\Users\Bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\obj\Release\wersja2_programmag.Form1.resources
+C:\Users\Bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\obj\Release\wersja2_programmag.Properties.Resources.resources
+C:\Users\Bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\obj\Release\wersja2 programmag.csproj.GenerateResource.Cache
+C:\Users\Bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\obj\Release\wersja2 programmag.exe
+C:\Users\Bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\obj\Release\wersja2 programmag.pdb
+C:\Users\Bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\obj\Release\wersja2 programmag.csprojResolveAssemblyReference.cache
+C:\Users\Bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\bin\Release\Database1.sdf
+C:\Users\Bart\Desktop\serwe i płyta\Bartłomiej Leśniewski\wersja2 programmag\wersja2 programmag\bin\Release\wersja2 programmag.exe.config
+C:\Users\Bart\Desktop\serwe i płyta\Bartłomiej Leśniewski\wersja2 programmag\wersja2 programmag\obj\Release\wersja2 programmag.exe
+C:\Users\Bart\Desktop\serwe i płyta\Bartłomiej Leśniewski\wersja2 programmag\wersja2 programmag\obj\Release\wersja2 programmag.pdb
+C:\Users\Bart\Desktop\Bartłomiej_ Leśniewski_Dobór metod przetwarzania obrazów do klasyfikowania komórek\program\Program_wyśw_wyniki\wersja2 programmag\bin\Release\wersja2 programmag.exe.config
+C:\Users\Bart\Desktop\Bartłomiej_ Leśniewski_Dobór metod przetwarzania obrazów do klasyfikowania komórek\program\Program_wyśw_wyniki\wersja2 programmag\obj\Release\wersja2 programmag.exe
+C:\Users\Bart\Desktop\Bartłomiej_ Leśniewski_Dobór metod przetwarzania obrazów do klasyfikowania komórek\program\Program_wyśw_wyniki\wersja2 programmag\obj\Release\wersja2 programmag.pdb
+C:\Users\Bartek\Desktop\Bartłomiej_ Leśniewski_Dobór metod przetwarzania obrazów do klasyfikowania komórek\program\Program_wyśw_wyniki\wersja2 programmag\bin\Release\wersja2 programmag.exe.config
+C:\Users\Bartek\Desktop\Bartłomiej_ Leśniewski_Dobór metod przetwarzania obrazów do klasyfikowania komórek\program\Program_wyśw_wyniki\wersja2 programmag\obj\Release\wersja2 programmag.exe
+C:\Users\Bartek\Desktop\Bartłomiej_ Leśniewski_Dobór metod przetwarzania obrazów do klasyfikowania komórek\program\Program_wyśw_wyniki\wersja2 programmag\obj\Release\wersja2 programmag.pdb

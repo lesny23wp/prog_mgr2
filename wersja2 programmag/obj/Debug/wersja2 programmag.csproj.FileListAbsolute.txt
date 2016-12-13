@@ -1,0 +1,10 @@
+c:\users\bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\bin\Debug\wersja2 programmag.exe.config
+c:\users\bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\bin\Debug\wersja2 programmag.exe
+c:\users\bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\bin\Debug\wersja2 programmag.pdb
+c:\users\bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\obj\Debug\wersja2 programmag.csprojResolveAssemblyReference.cache
+c:\users\bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\obj\Debug\wersja2_programmag.Form1.resources
+c:\users\bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\obj\Debug\wersja2_programmag.Properties.Resources.resources
+c:\users\bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\obj\Debug\wersja2 programmag.csproj.GenerateResource.Cache
+c:\users\bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\obj\Debug\wersja2 programmag.exe
+c:\users\bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\obj\Debug\wersja2 programmag.pdb
+C:\Users\Bart\documents\visual studio 2012\Projects\wersja2 programmag\wersja2 programmag\bin\Debug\Database1.sdf
